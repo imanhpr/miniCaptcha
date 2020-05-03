@@ -5,7 +5,6 @@ This Model Help To Users Create Just Simple Image Captcha.
 
 from PIL import Image, ImageDraw, ImageFont
 import random
-from icecream import ic
 from string import ascii_letters, digits
 import os
 from colors import make_Shade, make_Tint, random_hex_color
