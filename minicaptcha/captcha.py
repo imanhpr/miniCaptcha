@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 import random
 from string import ascii_letters, digits
 import os
-from colors import make_Shade, make_Tint, random_hex_color
+from .colors import make_Shade, make_Tint, random_hex_color
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
