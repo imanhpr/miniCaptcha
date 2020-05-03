@@ -1,6 +1,6 @@
-# ICaptcha
+# miniCaptcha
 
-You can generate simple image captcha with random color with captcha
+miniCaptcha can generate simple captchas with random colors.
 
 ## Installation
 
